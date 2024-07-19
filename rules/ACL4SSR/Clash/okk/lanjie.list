@@ -1,0 +1,24 @@
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,unityads.unitychina.cn
+DOMAIN-SUFFIX,ssadscdn.cn
+DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-KEYWORD,googleads
+DOMAIN,pikpak_push-1-v1211569.deta.app
+DOMAIN,clients3.google.com
+DOMAIN-SUFFIX,apphit.com
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,google-analytics.com
+#DOMAIN-SUFFIX,googletagmanager
+DOMAIN-SUFFIX,jprj.com
+DOMAIN-SUFFIX,paddleapi.com
+DOMAIN-SUFFIX,paddle.com
+DOMAIN,paddle.s3.amazonaws.com
+
+
+
+
+# IP
+IP-CIDR,95.111.225.211/32,no-resolve
+IP-CIDR,104.18.18.254/32,no-resolve
