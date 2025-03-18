@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,paddle.com
   - DOMAIN,paddle.s3.amazonaws.com
   - DOMAIN,look.163.com
+  - DOMAIN,order.luckydogsoft.com
 
 
 
