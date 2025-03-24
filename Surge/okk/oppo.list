@@ -41,11 +41,11 @@ DOMAIN,webcast-open.douyin.com
 DOMAIN-SUFFIX,volceapplog.com
 DOMAIN,tnc3-alisc1.zijieapi.com
 DOMAIN-SUFFIX,bytescm.com
-DOMAIN,baichuan-sdk.alicdn.com
+DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN,sdk.e.qq.com
-DOMAIN,vod-license-m.volccdn.com
-DOMAIN,gdtimg.com
-DOMAIN,gtimg.cn
-DOMAIN,ytescm.com
-DOMAIN,checktrustworthiness.com
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-SUFFIX,ytescm.com
+DOMAIN-SUFFIX,checktrustworthiness.com
