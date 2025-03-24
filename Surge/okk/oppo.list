@@ -40,8 +40,12 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN,webcast-open.douyin.com
 DOMAIN-SUFFIX,volceapplog.com
 DOMAIN,tnc3-alisc1.zijieapi.com
-DOMAIN,bytescm.com
+DOMAIN-SUFFIX,bytescm.com
 DOMAIN,baichuan-sdk.alicdn.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN,sdk.e.qq.com
 DOMAIN,vod-license-m.volccdn.com
+DOMAIN,gdtimg.com
+DOMAIN,gtimg.cn
+DOMAIN,ytescm.com
+DOMAIN,checktrustworthiness.com
