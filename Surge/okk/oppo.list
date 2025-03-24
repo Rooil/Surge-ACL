@@ -20,4 +20,5 @@ DOMAIN-SUFFIX,is.snssdk.com
 DOMAIN,ibrowser.feeds.heytapmobi.com
 DOMAIN,log.zijieapi.com
 DOMAIN,qaapi.xinghantec.com
+DOMAIN-SUFFIX,finzfin.com
 IP-CIDR,39.156.118.17/32
