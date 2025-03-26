@@ -33,10 +33,12 @@ payload:
   - DOMAIN-SUFFIX,manafile.com
   - DOMAIN-SUFFIX,skyofile.com
   - DOMAIN-SUFFIX,turboviplay.cc
+  - DOMAIN-SUFFIX,turboviplay.com
   - DOMAIN-SUFFIX,netflass.com
   - DOMAIN-SUFFIX,vkvideo.ru
   - DOMAIN-SUFFIX,vk.com
   - DOMAIN-SUFFIX,okcdn.ru
   - DOMAIN-SUFFIX,mycdn.me
   - DOMAIN-SUFFIX,vkuser.net
+  - DOMAIN-SUFFIX,tiktokcdn.com
   
