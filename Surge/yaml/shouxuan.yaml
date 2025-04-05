@@ -1,4 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,torrentmac.net
   - DOMAIN-SUFFIX,appstorrent.ru
-  - DOMAIN,challenges.cloudflare.com
+  - DOMAIN,cloudflare.com
