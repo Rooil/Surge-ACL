@@ -1,7 +1,7 @@
 payload:
 # 游戏平台补充规则
 # COD
-  - PROCESS-NAME,cod.exe
+  - PROCESS-PATH-REGEX,cod.exe
   - DOMAIN-SUFFIX,demonware.net
   - DOMAIN-SUFFIX,activision.com
   # Rstar
