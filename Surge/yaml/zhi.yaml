@@ -1,4 +1,8 @@
 payload:
+  - PROCESS-PATH-REGEX,bf6.exe,DIRECT
+  - DOMAIN-SUFFIX,kaspersky.com
+  - DOMAIN-SUFFIX,ksn.kaspersky-labs.com
+  - PROCESS-PATH-REGEX,avp.exe
   - DOMAIN-SUFFIX,userapi.com
   - DOMAIN-SUFFIX,mediafire.com
   - DOMAIN-SUFFIX,trendmicro.com
