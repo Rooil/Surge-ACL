@@ -1,5 +1,5 @@
 payload:
-  - PROCESS-PATH-REGEX,bf6.exe,DIRECT
+  - PROCESS-PATH-REGEX,bf6.exe
   - DOMAIN-SUFFIX,kaspersky.com
   - DOMAIN-SUFFIX,ksn.kaspersky-labs.com
   - PROCESS-PATH-REGEX,avp.exe
