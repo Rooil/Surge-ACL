@@ -1,6 +1,7 @@
 payload:
   - PROCESS-PATH-REGEX,avp.exe
   - PROCESS-PATH-REGEX,bf6.exe
+  - PROCESS-PATH-REGEX,TslGame.exe
   - DOMAIN-SUFFIX,kaspersky.com
   - DOMAIN-SUFFIX,ksn.kaspersky-labs.com
   - DOMAIN-SUFFIX,userapi.com
