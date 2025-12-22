@@ -2,6 +2,13 @@ payload:
 # 游戏平台补充规则
 # COD
   - PROCESS-PATH-REGEX,cod.exe
+  - PROCESS-PATH-REGEX,      # 穹顶特攻队
+  - PROCESS-PATH-REGEX,bf6.exe    # 战地6
+  - PROCESS-PATH-REGEX,TslGame.exe  # 绝地求生
+  - PROCESS-PATH-REGEX,BEService.exe  # BE服务
+  - PROCESS-PATH-REGEX,bf6.exe
+  - PROCESS-PATH-REGEX,TslGame.exe
+  - PROCESS-PATH-REGEX,BEService.exe
   - DOMAIN-SUFFIX,demonware.net
   - DOMAIN-SUFFIX,activision.com
   # Rstar
