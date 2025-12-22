@@ -1,16 +1,48 @@
 payload:
 # 游戏平台补充规则
 # COD
-  - PROCESS-PATH-REGEX,cod.exe
-  - PROCESS-PATH-REGEX,      # 穹顶特攻队
+  - PROCESS-PATH-REGEX,cod.exe  #使命召唤
+  - PROCESS-PATH-REGEX,PioneerGame.exe      # 穹顶特攻队
   - PROCESS-PATH-REGEX,bf6.exe    # 战地6
   - PROCESS-PATH-REGEX,TslGame.exe  # 绝地求生
+  - PROCESS-PATH-REGEX,TslGame_BE.exe  # 绝地求生
+  - PROCESS-PATH-REGEX,TslGame_ZK.exe  # 绝地求生
   - PROCESS-PATH-REGEX,BEService.exe  # BE服务
-  - PROCESS-PATH-REGEX,bf6.exe
-  - PROCESS-PATH-REGEX,TslGame.exe
-  - PROCESS-PATH-REGEX,BEService.exe
-  - DOMAIN-SUFFIX,demonware.net
-  - DOMAIN-SUFFIX,activision.com
+  - PROCESS-PATH-REGEX,start_protected_game.exe    # 反作弊小蓝熊
+  - PROCESS-PATH-REGEX,Ace7Game.exe  # 皇牌空战
+  - PROCESS-PATH-REGEX,AimLab_tb.exe  # AIB
+  - PROCESS-PATH-REGEX,BF2042.exe    # 战地2042
+  - PROCESS-PATH-REGEX,BF2042Trial.exe  # 战地2042
+  - PROCESS-PATH-REGEX,Cities2.exe  
+  - PROCESS-PATH-REGEX,CivilizationVI.exe
+  - PROCESS-PATH-REGEX,CivilizationVI_DX12.exe
+  - PROCESS-PATH-REGEX,Cleanup.exe
+  - PROCESS-PATH-REGEX,cs2.exe
+  - PROCESS-PATH-REGEX,csgo_legacy_app.exe
+  - PROCESS-PATH-REGEX,DeadByDaylight-Win64-Shipping.exe
+  - PROCESS-PATH-REGEX,demonware.net
+  - PROCESS-PATH-REGEX,activision.com
+  - PROCESS-PATH-REGEX,DeadByDaylight.exe
+  - PROCESS-PATH-REGEX,dota2.exe
+  - PROCESS-PATH-REGEX,Duckov.exe
+  - PROCESS-PATH-REGEX,EAAntiCheat.GameServiceLauncher.exe
+  - PROCESS-PATH-REGEX,EAAntiCheat.GameServiceLauncher.exe
+  - PROCESS-PATH-REGEX,ExecPubg.exe
+  - PROCESS-PATH-REGEX,Expedition33_Steam.exe
+  - PROCESS-PATH-REGEX,FiraxisBugReporter.exe
+  - PROCESS-PATH-REGEX,Ghostrunner2-Win64-Shipping.exe
+  - PROCESS-PATH-REGEX,Ghostrunner2.exe
+  - PROCESS-PATH-REGEX,Jantama_MahjongSoul.exe
+  - PROCESS-PATH-REGEX,LaunchPad.exe
+  - PROCESS-PATH-REGEX,ModPostProcessor.exe
+  - PROCESS-PATH-REGEX,ModPublisher.exe
+  - PROCESS-PATH-REGEX,MonsterHunterWorld.exe
+  - PROCESS-PATH-REGEX,REDprelauncher.exe
+  - PROCESS-PATH-REGEX,Remnant2-Win64-Shipping.exe
+  - PROCESS-PATH-REGEX,Remnant2.exe
+  - PROCESS-PATH-REGEX,SandFall-Win64-Shipping.exe
+  - PROCESS-PATH-REGEX,start_protected_game.exe
+  - PROCESS-PATH-REGEX,Touchup.exe
   # Rstar
   - DOMAIN-KEYWORD,rockstargames
   - DOMAIN-SUFFIX,rsg.sc
