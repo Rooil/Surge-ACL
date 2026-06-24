@@ -13,6 +13,9 @@ payload:
   - PROCESS-PATH-REGEX,AimLab_tb.exe  # AIB
   - PROCESS-PATH-REGEX,BF2042.exe    # 战地2042
   - PROCESS-PATH-REGEX,BF2042Trial.exe  # 战地2042
+  - PROCESS-PATH-REGEX,RainbowSix.exe  # 彩虹六号
+  - PROCESS-PATH-REGEX,UplayWebCore.exe
+  - PROCESS-PATH-REGEX,upc.exe
   - PROCESS-PATH-REGEX,Cities2.exe  
   - PROCESS-PATH-REGEX,CivilizationVI.exe
   - PROCESS-PATH-REGEX,CivilizationVI_DX12.exe
@@ -43,6 +46,7 @@ payload:
   - PROCESS-PATH-REGEX,SandFall-Win64-Shipping.exe
   - PROCESS-PATH-REGEX,start_protected_game.exe
   - PROCESS-PATH-REGEX,Touchup.exe
+  
   # Rstar
   - DOMAIN-KEYWORD,rockstargames
   - DOMAIN-SUFFIX,rsg.sc
