@@ -1,6 +1,7 @@
 payload:
 # 游戏平台补充规则
 # COD
+  - PROCESS-PATH-REGEX,WardogsClient-Win64-Shipping.exe #Wargods
   - PROCESS-PATH-REGEX,cod.exe  #使命召唤
   - PROCESS-PATH-REGEX,PioneerGame.exe      # 穹顶特攻队
   - PROCESS-PATH-REGEX,bf6.exe    # 战地6
