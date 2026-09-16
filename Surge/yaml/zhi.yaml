@@ -12,4 +12,4 @@ payload:
   - DOMAIN-SUFFIX,mixpanel.com
   - DOMAIN-SUFFIX,diancigaoshou.com
   - DOMAIN-KEYWORD,wacom
-  - DOMAIN-SUFFIX,nvidia.cn
+  - DOMAIN,cn.download.nvidia.com
