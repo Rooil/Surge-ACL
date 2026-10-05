@@ -32,7 +32,6 @@ payload:
   - PROCESS-PATH-REGEX,dota2.exe
   - PROCESS-PATH-REGEX,Duckov.exe
   - PROCESS-PATH-REGEX,EAAntiCheat.GameServiceLauncher.exe
-  - PROCESS-PATH-REGEX,EAAntiCheat.GameServiceLauncher.exe
   - PROCESS-PATH-REGEX,ExecPubg.exe
   - PROCESS-PATH-REGEX,Expedition33_Steam.exe
   - PROCESS-PATH-REGEX,FiraxisBugReporter.exe
@@ -49,3 +48,9 @@ payload:
   - PROCESS-PATH-REGEX,SandFall-Win64-Shipping.exe
   - PROCESS-PATH-REGEX,start_protected_game.exe
   - PROCESS-PATH-REGEX,Touchup.exe
+  - PROCESS-PATH-REGEX,Battle.net.exe
+  - PROCESS-PATH-REGEX,Battle.net Launcher.exe
+  - PROCESS-PATH-REGEX,BlizzardBrowser.exe
+  - PROCESS-PATH-REGEX,battlenet.overlay.runtime.exe
+  - PROCESS-PATH-REGEX,GameSessionMonitor.exe
+  - PROCESS-PATH-REGEX,OWNeacClient.exe
