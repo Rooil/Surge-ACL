@@ -55,3 +55,4 @@ payload:
   - PROCESS-PATH-REGEX,GameSessionMonitor.exe
   - PROCESS-PATH-REGEX,OWNeacClient.exe
   - PROCESS-PATH-REGEX,Overwatch.exe
+  - PROCESS-PATH-REGEX,Agent.exe
