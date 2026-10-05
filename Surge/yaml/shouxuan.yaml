@@ -2,5 +2,3 @@ payload:
   - DOMAIN-SUFFIX,torrentmac.net
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN,dl.google.com
-  - DOMAIN-KEYWORD,steamcloud-
-  - DOMAIN,api.steampowered.com
