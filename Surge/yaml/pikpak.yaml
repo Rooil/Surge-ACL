@@ -1,5 +1,6 @@
 payload:
   - PROCESS-NAME,/Applications/PikPak Desktop.app/Contents/MacOS/PikPak Desktop
+  - PROCESS-NAME,pikpak.exe
   - DOMAIN-KEYWORD,pikpak
   - DOMAIN-SUFFIX,pikpak.me
   - DOMAIN-SUFFIX,mypikpak.me
